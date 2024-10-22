@@ -1,7 +1,7 @@
 
 # DevXACTeam
 
-![DevXACTeam Banner](./assets/banner.jpg)
+![DevXACTeam Banner](https://github.com/DevXACTeam/.github/blob/main/assets/banner.jpg)
 
 ## Welcome to DevXACTeam!
 
