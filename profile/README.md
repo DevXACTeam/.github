@@ -13,8 +13,9 @@ At DevXACTeam, we believe in the power of technology to bring about positive cha
 
 ### 🛠️ Key Projects
 
-- **Project A**: A groundbreaking application designed to revolutionize [specific domain].
-- **Project B**: An open-source tool that helps developers streamline [specific process].
+- **NeoraFleet**: A groundbreaking ai application designed to revolutionize [https://neorafleet.com].
+
+- **Protnia**: An open-source tool that helps developers streamline [process].
 
 Check out our projects section for more!
 
